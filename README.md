@@ -5,7 +5,7 @@
  
 this project was based on the work of a similar project by [derekfountain](https://github.com/derekfountain/zx-spectrum-lower-ram.git)  
 ### THIS LOWER RAM MODULE IS CURRENTLY AT THE TESTING STAGE 
-![Alt text](<rev 1/front.jpg>)
+![Alt text](<rev 1/mounted on sockets.jpg>)
 revision 1 using through hole capacitors / resistor
 
 
